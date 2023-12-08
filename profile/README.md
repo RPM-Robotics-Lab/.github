@@ -1,4 +1,4 @@
-<h2 align="center"> <p> RPM Robotics Lab </p></h2>
+<h2 align="center"> <p> 🤖 🦾 RPM Robotics Lab 🚗 📷 </p></h2>
 
 Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) focuses on perceptual simultaneous localization and mapping (SLAM). Main research interest and detailed robotics topics include perception-based environment mapping, intelligent sensor fusion, decision making and control of the robotic agents, robotic operation, and navigation in GPS-denied environments (e.g., underwater, urban, and indoor environments).
 <details>
