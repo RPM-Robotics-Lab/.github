@@ -42,6 +42,6 @@ Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) focuses on perceptu
 <details>
   <summary><strong>Sensor Calibration</strong> (click to expand):</summary>
   
-  - 📂 [Discocal (CVPR'24)](https://github.com/chaehyeonsong/discocal) : Unbiased Estimator for Distorted Conic in Camera Calibration;
+  - 📂 [Discocal (CVPR'24)](https://github.com/chaehyeonsong/discocal) : Unbiased Estimator for Distorted Conics in Camera Calibration;
   - 📂 [PeLiCal (ICRA'24)](https://github.com/joomeok/PeLiCal) : Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility;
 </details>
