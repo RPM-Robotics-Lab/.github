@@ -24,6 +24,7 @@ Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) focuses on perceptu
   
   - 📂 [PhaRaO (ICRA'20)](https://github.com/hyesu-jang/PhaRaO_gtsam) : Direct Radar Odometry using Phase Correlation;
   - 📂 [RaPlace (IROS'23)](https://github.com/hyesu-jang/RaPlace) : Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold;
+  - 📂 [Co-RaL (IROS'24)](https://github.com/SangwooJung98/Co-RaL-Dataset) : Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact;
 </details>
 
 <details>
