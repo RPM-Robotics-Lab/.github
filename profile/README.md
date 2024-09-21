@@ -30,6 +30,7 @@ Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) focuses on perceptu
   <summary><strong>Thermal Camera for SLAM beyond the Visible Spectrum</strong> (click to expand):</summary>
   
   - 📂 [sRGB-TIR (ICRA'23)](https://github.com/RPM-Robotics-Lab/sRGB-TIR) : Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels;
+  - 📂 [Fieldscale (RA-L'24)](https://github.com/HyeonJaeGil/fieldscale) : Locality-Aware Field-based Adaptive Rescaling for Thermal Infrared Image;
 </details>
 
 <details>
