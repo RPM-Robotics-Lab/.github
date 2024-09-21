@@ -12,6 +12,13 @@ Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) focuses on perceptu
 </details>
 
 <details>
+  <summary><strong>Sensor Calibration</strong> (click to expand):</summary>
+  
+  - 📂 [Discocal (CVPR'24)](https://github.com/chaehyeonsong/discocal) : Unbiased Estimator for Distorted Conics in Camera Calibration;
+  - 📂 [PeLiCal (ICRA'24)](https://github.com/joomeok/PeLiCal) : Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility;
+</details>
+
+<details>
   <summary><strong>LiDAR SLAM for Enhanced Resilience</strong> (click to expand):</summary>
   
   - 📂 [Scan Context (IROS'18)](https://github.com/gisbi-kim/scancontext_tro) : Egocentric Spatial Descriptor for Place Recognition within 3D Point Cloud Map;
@@ -39,11 +46,4 @@ Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) focuses on perceptu
   
   - 📂 [PrimA6D (RA-L'20)](https://github.com/MyungHwanJeon/PrimA6D) : Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation;
   - 📂 [PrimA6D++ (RA-L'22)](https://github.com/MyungHwanJeon/PrimA6D) : Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation;
-</details>
-
-<details>
-  <summary><strong>Sensor Calibration</strong> (click to expand):</summary>
-  
-  - 📂 [Discocal (CVPR'24)](https://github.com/chaehyeonsong/discocal) : Unbiased Estimator for Distorted Conics in Camera Calibration;
-  - 📂 [PeLiCal (ICRA'24)](https://github.com/joomeok/PeLiCal) : Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility;
 </details>
